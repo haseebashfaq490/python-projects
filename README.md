@@ -1,2 +1,2 @@
 # python-projects
-A collection of my projects in Python in Jupyter Notebook
+This repo contains a collection of my Python projects built in Jupyter Notebooks.
